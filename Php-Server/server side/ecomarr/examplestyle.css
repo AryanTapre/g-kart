@@ -1,0 +1,66 @@
+*{
+	margin:0;
+	padding: 0;
+} 
+.bgimg{
+	width: 100%;
+	background-size: cover;
+	background-image: url('bgnew.jpeg');
+/*	background-color: rgb(0,0,0);*/
+
+}
+.centerdiv{
+	width: 300px;
+	height: 300px;
+	position: absolute;;
+	top: 50%;
+	left: 50%;
+	background-color: grey;
+	transform: translate(-50%,-50%);
+	border-radius: 15px;
+	box-shadow: 1 1px 10px;
+}
+#logopic{
+	position: relative;
+	top :-10%;
+	left: calc((300px - 80px) / 2);
+	box-shadow: 0 1px 10px;
+	border-color: rgb(50,25,25);
+	border:1;
+
+}
+#input_round_login{
+
+  	border-radius: 25px;
+    height: 33px;
+    width: 100px;
+    background-color: white;
+    color: black;
+    border:0;
+    cursor: pointer;
+    margin-left: 92px;
+}
+    
+#input_round_login:hover{
+	background-color: green;
+}
+
+.adjust{
+	position: relative;
+	top:10%;
+	left: 16%;
+	margin-bottom: 5px;
+}
+.title_gkart{
+	position: relative;
+	top:-5%;
+	color:white;
+	font-size: 20px;
+	left: 23%;
+}
+
+
+.footerstyle{
+	margin-top: 630px;
+	margin-left: 483px;
+}
