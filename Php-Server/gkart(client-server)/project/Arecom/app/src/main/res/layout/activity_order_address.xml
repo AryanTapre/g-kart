@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+
+    android:layout_height="match_parent"
+    tools:context=".OrderAddress">
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:text="Shipping Address Details"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:padding="10dp"
+        android:id="@+id/et_address"
+        android:inputType="text"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="50dp"
+        android:hint=" address"
+        android:textAlignment="center"
+        android:background="@drawable/custom_input"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="50dp"/>
+
+    <EditText
+        android:padding="10dp"
+        android:id="@+id/et_zipcode"
+        android:inputType="text"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="50dp"
+        android:hint=" pincode"
+        android:textAlignment="center"
+        android:background="@drawable/custom_input"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="50dp"/>
+
+    <Button
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:background="#8BC34A"
+        android:text="Proceed"
+        android:id="@+id/proceed"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+
+</LinearLayout>

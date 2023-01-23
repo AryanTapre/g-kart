@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".RegisterActivity">
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Create new Account"
+        android:textColor="#EA4c83"
+        android:textSize="60sp"
+        android:fontFamily="cursive"
+        android:layout_marginBottom="30dp"
+        />
+
+    <RelativeLayout
+        android:layout_below="@+id/title"
+        android:id="@+id/relative"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_height="wrap_content">
+
+    <EditText
+        android:drawableStart="@drawable/email"
+        android:padding="10dp"
+        android:id="@+id/et_email"
+        android:inputType="textEmailAddress"
+        android:hint="email address"
+        android:textAlignment="center"
+        android:background="@drawable/custom_input"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="50dp"/>
+
+        <EditText
+            android:layout_below="@+id/et_email"
+            android:drawableStart="@drawable/lock"
+            android:padding="10dp"
+            android:id="@+id/et_password"
+            android:inputType="textPassword"
+            android:hint="password"
+            android:textAlignment="center"
+            android:background="@drawable/custom_input"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_height="50dp"/>
+
+        <EditText
+            android:layout_below="@+id/et_password"
+            android:drawableStart="@drawable/lock"
+            android:padding="10dp"
+            android:id="@+id/et_repassword"
+            android:inputType="textPassword"
+            android:hint="re-type password"
+            android:textAlignment="center"
+            android:background="@drawable/custom_input"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_below="@+id/et_repassword"
+            android:id="@+id/gender_title"
+            android:text="Select gender"
+            android:textSize="16sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <RadioGroup
+            android:layout_below="@+id/gender_title"
+            android:layout_width="match_parent"
+            android:id="@+id/radioGroup"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/rb_male"
+                android:text="male"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <RadioButton
+                android:text="fe-male"
+                android:id="@+id/rb_female"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btn_register"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_below="@+id/radioGroup"
+            android:layout_width="300dp"
+            android:text="Register"
+            android:textColor="@color/white"
+            android:background="#FF9800"
+            android:layout_height="60dp"/>
+
+        <TextView
+            android:id="@+id/goto_login"
+            android:layout_below="@+id/btn_register"
+            android:layout_marginTop="10dp"
+            android:text="click here to login "
+            android:textAlignment="center"
+            android:textColor="@color/teal_700"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
