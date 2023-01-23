@@ -1,0 +1,36 @@
+				FUNCTIONAL REQUIREMENTS
+Admin
+Login: - User can login using his/her user id and password.
+Mange app: - Will store all the information and verify all user and collect their order.
+Customer
+Login: - User can login Using his/her user id and password.
+Registration: - Filling own information for registration and for login.
+Select item: - User select their choice items.
+Add item: - Customer can add many items by their needs.
+Place order: - Customer place order.
+Payment
+Payment can be done either online or by cash on delivery.
+
+
+				NON-FUNCTIONAL REQUIREMENTS
+Security:
+Security is required so that no personal information of user is leaked and the data of system can’t be steal.
+
+Atomicity:
+Unauthorized people can’t operate this application.
+
+
+Reliability:
+Reliability stands for trust. User’s personal information will not be disclosed here.
+
+Flexibility:
+“MIY SHOP” is flexible to open in any Android phone and tablet.
+
+Efficiency:
+User can easily search clothes of their choices.
+
+Reusability:
+This application is made with the help of incremental model, so it is made in increments. so, it can be reused in future.
+
+Integrity:
+Only the system admin has the right to access the database, user will only have access to their account.

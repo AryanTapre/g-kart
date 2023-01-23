@@ -1,0 +1,10 @@
+				PURPOSE
+The primary purpose of this app is to give best shopping experience to the customers. Nowadays in online shopping customers found the cloths which are suits on the models but sometimes it is possible that it not suits on the customer. As a solution of this problem our application provides an AR look of the cloths to the customers on their body. This application is very useful for users because they can’t go outside for the shopping purpose. They just log in in the app and purchase the cloths which they want to purchase. They can purchase any brands of clothes in only one app from their home.
+
+				SCOPE
+The main scope of this application is to provide secure and easy shopping for user with different types of brands in one app. This application is used for online shopping purpose in which user can purchase any types of products specially clothes. 
+User can easily use this application by using various options of brands or other things given in customized shopping application.
+
+				OBJECTIVE
+
+The objective of this product is to develop a elegant e-commerce system that will be user friendly which supports Augmented Reality concept.

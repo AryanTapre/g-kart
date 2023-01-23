@@ -1,0 +1,25 @@
+A feasibility study is an analysis that takes all of a project's relevant factors into account—including economic, technical, legal, and scheduling considerations—to ascertain the likelihood of completing the project successfully. we use feasibility studies to discern the pros and cons of undertaking a project before they invest a lot of time and money into it.
+
+
+/*Feasibility studies also can provide a company's management with crucial information that could prevent the company from entering blindly into risky businesses.*/
+
+following are the way from which we can check software feasibility
+economically,technically,and operationally
+
+economic:-
+    The purpose of an economic feasibility study (EFS) is to demonstrate the net benefit of a proposed project for accepting or disbursing electronic funds/benefits, taking into consideration the benefits and costs to the agency, other state agencies, and the general public as a whole. ... Cost Benefit Analysis
+
+our project follow the criteria of economical feasibility as thier is one time investment for the resources required to develop this project and resources are free of cost.
+
+technical:-
+    This assessment focuses on the technical resources available to the organization. It helps organizations determine whether the technical resources meet capacity and whether the technical team is capable of converting the ideas into working systems.
+    Resources(software,hardware) required to develop this project are avaliable so, our project follows the criteria of technical feasibility.	
+
+operational:-
+	this study describe is software performs all the operation in the way it should? as well as Analyzes whether a user adopt software easily or not.   
+	
+   this project performs all the operation in the way it should.
+   this project allows the users to adopt software easily.
+
+
+

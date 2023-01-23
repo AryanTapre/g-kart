@@ -1,0 +1,18 @@
+				PURPOSE
+(1)our main purpose is to provide customer satisfaction in context of buying an product online.
+(2)to provide valuable product to owners/buyers, desire to retain or obatin a product.
+(3)to adopt 'smart' e-commerce which allow better user interaction,quality and purchasing decisions.
+
+				SCOPE	
+(1)customer can easily choose thier cloths or other products without any kind of confusion.
+(2)to make customers satisfied by ordering thier product from 'smart' e-commerce.
+(3)to reduce possibility of product replacement specially cloth.
+(4)helps the customers to make quick decision.
+(5)to save time by reducing possibility of product replacement.
+
+				OBJECTIVE
+
+ The objective of this product is to develop a elegant e-commerce system that will be user friendly which supports Augmented Reality concept.
+
+
+

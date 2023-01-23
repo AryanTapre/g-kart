@@ -1,0 +1,18 @@
+Client Side
+CLIENT ON INTERNET: Web Browser
+CLIENT ON MOBILE: Android Phone With 5.0 Version
+
+Server Side
+SOFTWARE: Adobe Dreamweaver CS5  
+SERVER ON INTERNET: Web Browser
+SERVER: PHP Development WampServer
+
+Development End
+PHP 7.0
+MySQL 5.7
+Sublime text editior
+Android Studio
+SDK (SOFTWARE DEVELOPMENT KIT)
+WampServer 3.0.6 3.0.
+Internet Explorer 8.0, Mozilla Firefox, Google Chrome 
+AR (Augmentation reality)

@@ -1,0 +1,44 @@
+					MODULE DESCRIPTION
+User:
+Users are the real-time entities which are those for whom this application is made. Users will be able to use application after registering. User can be do register, login, update his/her profile etc. Details information about each sub module is given below:
+Registration
+Login
+Edit profile
+Search for products
+Send Payment
+Logout
+This sub module describes below:
+Registration: -
+In register, the user will create his/her account.
+Login: -
+In login, the user will login in to the application.
+Edit Profile: -
+In edit profile, the user can edit profile of itself.
+Search for products: -
+In this module, user search for products and its appropriate match. 
+      5)   Payment: -
+In this module user pays money for products which they buy from application.
+6) Logout: -
+In logout, the users can logout from the application.
+
+
+
+Admin:
+Admin is the real time entity which manages all the payments, products and users who registered with the application. Admin can modify, delete, edit category, products and also can delete or block the users. Detail information of each sub module is described below:
+Login
+Add/Edit/Delete category
+Add/Edit/Delete products
+Delete/Block User
+Logout
+
+This sub module describes below: -
+1) Login: -
+In this, Admin will login through username and password and check all the status of clothes, orders and activity of the users.
+2) Add/Edit/Delete category: -
+	In this, Admin will manage the product categories for e-commerce store by add/edit/delete categories, and it is accessed by clicking the manage categories link on the admin menu page. 
+3) Add/Edit/Delete products: -
+Admin add the product detail and check that fraud not happen in system. Admin can modify the detail of product and can delete the product if necessary.
+4) Delete/Block User: -
+Admin can delete the user if any fraud done by the user.
+5) Logout: -
+After updating admin can Logout the application.
